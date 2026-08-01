@@ -1,1 +1,8 @@
-// Problem: Valid Parentheses\n// https://leetcode.com/problems/valid-parentheses/\n\nclass Solution {\n    \n}\n
+// Problem: Valid Parentheses
+// https://leetcode.com/problems/valid-parentheses/
+
+class Solution {
+    public boolean isValid(String s) {
+        
+    }
+}

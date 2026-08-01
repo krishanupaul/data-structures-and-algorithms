@@ -1,1 +1,8 @@
-// Problem: Combination Sum\n// https://leetcode.com/problems/combination-sum/\n\nclass Solution {\n    \n}\n
+// Problem: Combination Sum
+// https://leetcode.com/problems/combination-sum/
+
+class Solution {
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        
+    }
+}

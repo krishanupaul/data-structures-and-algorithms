@@ -1,1 +1,8 @@
-// Problem: Group Anagrams\n// https://leetcode.com/problems/group-anagrams/\n\nclass Solution {\n    \n}\n
+// Problem: Group Anagrams
+// https://leetcode.com/problems/group-anagrams/
+
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+        
+    }
+}

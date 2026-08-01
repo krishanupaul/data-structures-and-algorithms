@@ -1,6 +1,19 @@
 // Problem: Linked List Cycle
 // https://leetcode.com/problems/linked-list-cycle/
 
-class Solution {
-    
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) {
+ *         val = x;
+ *         next = null;
+ *     }
+ * }
+ */
+public class Solution {
+    public boolean hasCycle(ListNode head) {
+        
+    }
 }

@@ -1,1 +1,8 @@
-// Problem: Plus One\n// https://leetcode.com/problems/plus-one/\n\nclass Solution {\n    \n}\n
+// Problem: Plus One
+// https://leetcode.com/problems/plus-one/
+
+class Solution {
+    public int[] plusOne(int[] digits) {
+        
+    }
+}

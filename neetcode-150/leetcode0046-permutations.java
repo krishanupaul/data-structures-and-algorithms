@@ -1,1 +1,8 @@
-// Problem: Permutations\n// https://leetcode.com/problems/permutations/\n\nclass Solution {\n    \n}\n
+// Problem: Permutations
+// https://leetcode.com/problems/permutations/
+
+class Solution {
+    public List<List<Integer>> permute(int[] nums) {
+        
+    }
+}

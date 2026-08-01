@@ -1,1 +1,8 @@
-// Problem: Container With Most Water\n// https://leetcode.com/problems/container-with-most-water/\n\nclass Solution {\n    \n}\n
+// Problem: Container With Most Water
+// https://leetcode.com/problems/container-with-most-water/
+
+class Solution {
+    public int maxArea(int[] height) {
+        
+    }
+}

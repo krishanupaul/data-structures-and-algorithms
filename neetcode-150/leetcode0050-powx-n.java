@@ -1,1 +1,8 @@
-// Problem: Pow(x, n)\n// https://leetcode.com/problems/powx-n/\n\nclass Solution {\n    \n}\n
+// Problem: Pow(x, n)
+// https://leetcode.com/problems/powx-n/
+
+class Solution {
+    public double myPow(double x, int n) {
+        
+    }
+}

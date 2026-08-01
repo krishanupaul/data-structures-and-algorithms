@@ -1,1 +1,8 @@
-// Problem: Longest Common Prefix\n// https://leetcode.com/problems/longest-common-prefix/\n\nclass Solution {\n    \n}\n
+// Problem: Longest Common Prefix
+// https://leetcode.com/problems/longest-common-prefix/
+
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        
+    }
+}

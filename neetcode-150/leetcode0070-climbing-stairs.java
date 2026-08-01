@@ -1,1 +1,8 @@
-// Problem: Climbing Stairs\n// https://leetcode.com/problems/climbing-stairs/\n\nclass Solution {\n    \n}\n
+// Problem: Climbing Stairs
+// https://leetcode.com/problems/climbing-stairs/
+
+class Solution {
+    public int climbStairs(int n) {
+        
+    }
+}

@@ -1,1 +1,8 @@
-// Problem: Subsets\n// https://leetcode.com/problems/subsets/\n\nclass Solution {\n    \n}\n
+// Problem: Subsets
+// https://leetcode.com/problems/subsets/
+
+class Solution {
+    public List<List<Integer>> subsets(int[] nums) {
+        
+    }
+}

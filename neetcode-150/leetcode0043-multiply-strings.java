@@ -1,1 +1,8 @@
-// Problem: Multiply Strings\n// https://leetcode.com/problems/multiply-strings/\n\nclass Solution {\n    \n}\n
+// Problem: Multiply Strings
+// https://leetcode.com/problems/multiply-strings/
+
+class Solution {
+    public String multiply(String num1, String num2) {
+        
+    }
+}

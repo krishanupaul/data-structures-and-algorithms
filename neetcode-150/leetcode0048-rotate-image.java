@@ -1,1 +1,8 @@
-// Problem: Rotate Image\n// https://leetcode.com/problems/rotate-image/\n\nclass Solution {\n    \n}\n
+// Problem: Rotate Image
+// https://leetcode.com/problems/rotate-image/
+
+class Solution {
+    public void rotate(int[][] matrix) {
+        
+    }
+}

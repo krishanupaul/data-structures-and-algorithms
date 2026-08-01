@@ -2,5 +2,7 @@
 // https://leetcode.com/problems/swim-in-rising-water/
 
 class Solution {
-    
+    public int swimInWater(int[][] grid) {
+        
+    }
 }

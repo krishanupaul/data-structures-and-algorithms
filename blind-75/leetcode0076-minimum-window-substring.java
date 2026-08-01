@@ -1,1 +1,8 @@
-// Problem: Minimum Window Substring\n// https://leetcode.com/problems/minimum-window-substring/\n\nclass Solution {\n    \n}\n
+// Problem: Minimum Window Substring
+// https://leetcode.com/problems/minimum-window-substring/
+
+class Solution {
+    public String minWindow(String s, String t) {
+        
+    }
+}

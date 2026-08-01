@@ -1,1 +1,8 @@
-// Problem: Sort Colors\n// https://leetcode.com/problems/sort-colors/\n\nclass Solution {\n    \n}\n
+// Problem: Sort Colors
+// https://leetcode.com/problems/sort-colors/
+
+class Solution {
+    public void sortColors(int[] nums) {
+        
+    }
+}

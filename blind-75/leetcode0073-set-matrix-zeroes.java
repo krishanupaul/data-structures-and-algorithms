@@ -1,1 +1,8 @@
-// Problem: Set Matrix Zeroes\n// https://leetcode.com/problems/set-matrix-zeroes/\n\nclass Solution {\n    \n}\n
+// Problem: Set Matrix Zeroes
+// https://leetcode.com/problems/set-matrix-zeroes/
+
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        
+    }
+}

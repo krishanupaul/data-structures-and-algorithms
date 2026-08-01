@@ -1,1 +1,8 @@
-// Problem: Unique Paths\n// https://leetcode.com/problems/unique-paths/\n\nclass Solution {\n    \n}\n
+// Problem: Unique Paths
+// https://leetcode.com/problems/unique-paths/
+
+class Solution {
+    public int uniquePaths(int m, int n) {
+        
+    }
+}

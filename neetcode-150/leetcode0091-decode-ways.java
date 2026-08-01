@@ -1,1 +1,8 @@
-// Problem: Decode Ways\n// https://leetcode.com/problems/decode-ways/\n\nclass Solution {\n    \n}\n
+// Problem: Decode Ways
+// https://leetcode.com/problems/decode-ways/
+
+class Solution {
+    public int numDecodings(String s) {
+        
+    }
+}

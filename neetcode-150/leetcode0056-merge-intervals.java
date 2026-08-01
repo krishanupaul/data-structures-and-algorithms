@@ -1,1 +1,8 @@
-// Problem: Merge Intervals\n// https://leetcode.com/problems/merge-intervals/\n\nclass Solution {\n    \n}\n
+// Problem: Merge Intervals
+// https://leetcode.com/problems/merge-intervals/
+
+class Solution {
+    public int[][] merge(int[][] intervals) {
+        
+    }
+}

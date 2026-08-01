@@ -1,1 +1,18 @@
-// Problem: Remove Nth Node From End of List\n// https://leetcode.com/problems/remove-nth-node-from-end-of-list/\n\nclass Solution {\n    \n}\n
+// Problem: Remove Nth Node From End of List
+// https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        
+    }
+}

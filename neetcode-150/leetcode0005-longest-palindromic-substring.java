@@ -1,1 +1,8 @@
-// Problem: Longest Palindromic Substring\n// https://leetcode.com/problems/longest-palindromic-substring/\n\nclass Solution {\n    \n}\n
+// Problem: Longest Palindromic Substring
+// https://leetcode.com/problems/longest-palindromic-substring/
+
+class Solution {
+    public String longestPalindrome(String s) {
+        
+    }
+}

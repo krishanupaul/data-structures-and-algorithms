@@ -1,1 +1,8 @@
-// Problem: Largest Rectangle in Histogram\n// https://leetcode.com/problems/largest-rectangle-in-histogram/\n\nclass Solution {\n    \n}\n
+// Problem: Largest Rectangle in Histogram
+// https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+class Solution {
+    public int largestRectangleArea(int[] heights) {
+        
+    }
+}

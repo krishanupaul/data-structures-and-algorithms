@@ -1,1 +1,8 @@
-// Problem: Word Search\n// https://leetcode.com/problems/word-search/\n\nclass Solution {\n    \n}\n
+// Problem: Word Search
+// https://leetcode.com/problems/word-search/
+
+class Solution {
+    public boolean exist(char[][] board, String word) {
+        
+    }
+}

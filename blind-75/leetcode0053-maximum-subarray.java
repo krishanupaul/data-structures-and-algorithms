@@ -1,1 +1,8 @@
-// Problem: Maximum Subarray\n// https://leetcode.com/problems/maximum-subarray/\n\nclass Solution {\n    \n}\n
+// Problem: Maximum Subarray
+// https://leetcode.com/problems/maximum-subarray/
+
+class Solution {
+    public int maxSubArray(int[] nums) {
+        
+    }
+}

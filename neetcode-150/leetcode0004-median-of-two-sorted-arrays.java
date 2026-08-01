@@ -1,1 +1,8 @@
-// Problem: Median of Two Sorted Arrays\n// https://leetcode.com/problems/median-of-two-sorted-arrays/\n\nclass Solution {\n    \n}\n
+// Problem: Median of Two Sorted Arrays
+// https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+class Solution {
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        
+    }
+}

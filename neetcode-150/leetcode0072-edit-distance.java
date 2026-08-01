@@ -1,1 +1,8 @@
-// Problem: Edit Distance\n// https://leetcode.com/problems/edit-distance/\n\nclass Solution {\n    \n}\n
+// Problem: Edit Distance
+// https://leetcode.com/problems/edit-distance/
+
+class Solution {
+    public int minDistance(String word1, String word2) {
+        
+    }
+}

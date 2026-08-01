@@ -1,1 +1,8 @@
-// Problem: Insert Interval\n// https://leetcode.com/problems/insert-interval/\n\nclass Solution {\n    \n}\n
+// Problem: Insert Interval
+// https://leetcode.com/problems/insert-interval/
+
+class Solution {
+    public int[][] insert(int[][] intervals, int[] newInterval) {
+        
+    }
+}

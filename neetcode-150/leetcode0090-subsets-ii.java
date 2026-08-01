@@ -1,1 +1,8 @@
-// Problem: Subsets II\n// https://leetcode.com/problems/subsets-ii/\n\nclass Solution {\n    \n}\n
+// Problem: Subsets II
+// https://leetcode.com/problems/subsets-ii/
+
+class Solution {
+    public List<List<Integer>> subsetsWithDup(int[] nums) {
+        
+    }
+}

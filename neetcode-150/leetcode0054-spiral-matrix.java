@@ -1,1 +1,8 @@
-// Problem: Spiral Matrix\n// https://leetcode.com/problems/spiral-matrix/\n\nclass Solution {\n    \n}\n
+// Problem: Spiral Matrix
+// https://leetcode.com/problems/spiral-matrix/
+
+class Solution {
+    public List<Integer> spiralOrder(int[][] matrix) {
+        
+    }
+}
