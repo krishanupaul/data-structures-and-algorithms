@@ -1,0 +1,1 @@
+// Problem: Longest Common Prefix\n// https://leetcode.com/problems/longest-common-prefix/\n\nclass Solution {\n    \n}\n

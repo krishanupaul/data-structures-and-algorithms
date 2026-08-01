@@ -1,0 +1,1 @@
+// Problem: Remove Nth Node From End of List\n// https://leetcode.com/problems/remove-nth-node-from-end-of-list/\n\nclass Solution {\n    \n}\n

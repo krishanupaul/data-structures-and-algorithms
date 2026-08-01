@@ -1,0 +1,1 @@
+// Problem: Insert Interval\n// https://leetcode.com/problems/insert-interval/\n\nclass Solution {\n    \n}\n

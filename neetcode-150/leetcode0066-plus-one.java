@@ -1,0 +1,1 @@
+// Problem: Plus One\n// https://leetcode.com/problems/plus-one/\n\nclass Solution {\n    \n}\n

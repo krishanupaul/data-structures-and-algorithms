@@ -1,0 +1,1 @@
+// Problem: Pow(x, n)\n// https://leetcode.com/problems/powx-n/\n\nclass Solution {\n    \n}\n

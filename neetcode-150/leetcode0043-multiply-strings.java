@@ -1,0 +1,1 @@
+// Problem: Multiply Strings\n// https://leetcode.com/problems/multiply-strings/\n\nclass Solution {\n    \n}\n

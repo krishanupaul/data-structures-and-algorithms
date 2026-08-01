@@ -1,0 +1,1 @@
+// Problem: Merge Intervals\n// https://leetcode.com/problems/merge-intervals/\n\nclass Solution {\n    \n}\n

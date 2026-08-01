@@ -1,0 +1,1 @@
+// Problem: N-Queens\n// https://leetcode.com/problems/n-queens/\n\nclass Solution {\n    \n}\n

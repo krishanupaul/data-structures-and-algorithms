@@ -1,0 +1,1 @@
+// Problem: Generate Parentheses\n// https://leetcode.com/problems/generate-parentheses/\n\nclass Solution {\n    \n}\n
