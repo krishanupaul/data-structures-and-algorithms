@@ -13,9 +13,10 @@ The repository is organized into three of the most highly respected curriculum l
 ## 🏗️ Repository Structure
 
 Inside each of the three folders, you will find:
-1. **Interactive Excel Tracker**: Customized `*-java.xlsx` and `*-go.xlsx` spreadsheets that track your overall progress percentage. It automatically syncs problem numbers, difficulty levels, and topic tags. You can update the dropdown statuses (e.g., *In progress*, *Completed*) to watch your completion tracker rise!
-2. **Language Templates**: Inside each folder, you'll find `java` and `go` directories containing individual `.java` and `.go` files for every single problem (e.g., `java/leetcode0001-two-sum.java`). Each file is pre-configured with the corresponding function signature and a direct link to the LeetCode problem so you can jump right into coding.
-3. **Markdown Overviews**: A `README.md` listing out the questions within that specific curriculum.
+1. **Language Folders**: Inside each folder, you'll find separate `java` and `go` directories.
+2. **Interactive Excel Trackers**: Within each language directory (e.g., `java/`), there is a customized tracker (e.g., `*-java.xlsx`) to track your overall progress percentage. It automatically syncs problem numbers, difficulty levels, and topic tags. You can update the dropdown statuses (e.g., *In progress*, *Completed*) to watch your completion tracker rise!
+3. **Code Templates**: Inside each language directory, you'll find individual `.java` and `.go` files for every single problem (e.g., `java/leetcode0001-two-sum.java`). Each file is pre-configured with the corresponding function signature and a direct link to the LeetCode problem so you can jump right into coding.
+4. **Markdown Overviews**: A `README.md` listing out the questions within that specific curriculum.
 
 ## 🛠️ Language Preference
 All templates and solutions inside this repository are provided in both **Java** and **Go**. Each problem directory contains separate `java` and `go` folders.
@@ -23,7 +24,7 @@ All templates and solutions inside this repository are provided in both **Java**
 ## 💡 How to Use
 1. Clone this repository.
 2. Pick the list you want to conquer (Blind 75, Grind 75, or NeetCode 150).
-3. Open the corresponding `*-java.xlsx` or `*-go.xlsx` tracking sheet to pick a topic and a problem.
+3. Open the corresponding `*-java.xlsx` or `*-go.xlsx` tracking sheet from inside the `java/` or `go/` folder to pick a topic and a problem.
 4. Open the generated `.java` or `.go` file for that problem and write out your solution.
 5. Update your Excel tracker to "Completed"!
 
