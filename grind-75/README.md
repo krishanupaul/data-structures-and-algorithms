@@ -5,75 +5,75 @@
 | 1 | Two Sum | [ ] |
 | 20 | Valid Parentheses | [ ] |
 | 21 | Merge Two Sorted Lists | [ ] |
-| 0000 | best time to buy and sell stock | [ ] |
-| 0000 | valid palindrome | [ ] |
-| 0000 | invert binary tree | [ ] |
-| 0000 | valid anagram | [ ] |
-| 0000 | binary search | [ ] |
-| 0000 | flood fill | [ ] |
-| 0000 | lowest common ancestor of a binary search tree | [ ] |
-| 0000 | balanced binary tree | [ ] |
-| 0000 | linked list cycle | [ ] |
-| 0000 | implement queue using stacks | [ ] |
-| 0000 | first bad version | [ ] |
-| 0000 | ransom note | [ ] |
+| 121 | best time to buy and sell stock | [ ] |
+| 125 | valid palindrome | [ ] |
+| 226 | invert binary tree | [ ] |
+| 242 | valid anagram | [ ] |
+| 704 | binary search | [ ] |
+| 733 | flood fill | [ ] |
+| 235 | lowest common ancestor of a binary search tree | [ ] |
+| 110 | balanced binary tree | [ ] |
+| 141 | linked list cycle | [ ] |
+| 232 | implement queue using stacks | [ ] |
+| 278 | first bad version | [ ] |
+| 383 | ransom note | [ ] |
 | 70 | Climbing Stairs | [ ] |
-| 0000 | longest palindrome | [ ] |
-| 0000 | reverse linked list | [ ] |
-| 0000 | majority element | [ ] |
+| 409 | longest palindrome | [ ] |
+| 206 | reverse linked list | [ ] |
+| 169 | majority element | [ ] |
 | 67 | Add Binary | [ ] |
-| 0000 | diameter of binary tree | [ ] |
-| 0000 | middle of the linked list | [ ] |
-| 0000 | maximum depth of binary tree | [ ] |
-| 0000 | contains duplicate | [ ] |
-| 0000 | meeting rooms | [ ] |
+| 543 | diameter of binary tree | [ ] |
+| 876 | middle of the linked list | [ ] |
+| 104 | maximum depth of binary tree | [ ] |
+| 217 | contains duplicate | [ ] |
+| 252 | meeting rooms | [ ] |
 | 13 | Roman to Integer | [ ] |
-| 0000 | backspace string compare | [ ] |
-| 0000 | counting bits | [ ] |
+| 844 | backspace string compare | [ ] |
+| 338 | counting bits | [ ] |
 | 100 | Same Tree | [ ] |
-| 0000 | number of 1 bits | [ ] |
+| 191 | number of 1 bits | [ ] |
 | 14 | Longest Common Prefix | [ ] |
-| 0000 | single number | [ ] |
-| 0000 | palindrome linked list | [ ] |
-| 0000 | move zeroes | [ ] |
-| 0000 | symmetric tree | [ ] |
-| 0000 | missing number | [ ] |
+| 136 | single number | [ ] |
+| 234 | palindrome linked list | [ ] |
+| 283 | move zeroes | [ ] |
+| 101 | symmetric tree | [ ] |
+| 268 | missing number | [ ] |
 | 9 | Palindrome Number | [ ] |
-| 0000 | convert sorted array to binary search tree | [ ] |
-| 0000 | reverse bits | [ ] |
-| 0000 | subtree of another tree | [ ] |
-| 0000 | squares of a sorted array | [ ] |
+| 108 | convert sorted array to binary search tree | [ ] |
+| 190 | reverse bits | [ ] |
+| 572 | subtree of another tree | [ ] |
+| 977 | squares of a sorted array | [ ] |
 | 53 | Maximum Subarray | [ ] |
 | 57 | Insert Interval | [ ] |
-| 0000 | 01 matrix | [ ] |
-| 0000 | k closest points to origin | [ ] |
+| 542 | 01 matrix | [ ] |
+| 973 | k closest points to origin | [ ] |
 | 3 | Longest Substring Without Repeating Characters | [ ] |
 | 15 | 3Sum | [ ] |
-| 0000 | binary tree level order traversal | [ ] |
-| 0000 | clone graph | [ ] |
-| 0000 | evaluate reverse polish notation | [ ] |
-| 0000 | course schedule | [ ] |
-| 0000 | implement trie prefix tree | [ ] |
-| 0000 | coin change | [ ] |
-| 0000 | product of array except self | [ ] |
-| 0000 | min stack | [ ] |
+| 102 | binary tree level order traversal | [ ] |
+| 133 | clone graph | [ ] |
+| 150 | evaluate reverse polish notation | [ ] |
+| 207 | course schedule | [ ] |
+| 208 | implement trie prefix tree | [ ] |
+| 322 | coin change | [ ] |
+| 238 | product of array except self | [ ] |
+| 155 | min stack | [ ] |
 | 98 | Validate Binary Search Tree | [ ] |
-| 0000 | number of islands | [ ] |
-| 0000 | rotting oranges | [ ] |
+| 200 | number of islands | [ ] |
+| 994 | rotting oranges | [ ] |
 | 33 | Search in Rotated Sorted Array | [ ] |
 | 39 | Combination Sum | [ ] |
 | 46 | Permutations | [ ] |
 | 56 | Merge Intervals | [ ] |
-| 0000 | lowest common ancestor of a binary tree | [ ] |
-| 0000 | time based key value store | [ ] |
-| 0000 | accounts merge | [ ] |
+| 236 | lowest common ancestor of a binary tree | [ ] |
+| 981 | time based key value store | [ ] |
+| 721 | accounts merge | [ ] |
 | 75 | Sort Colors | [ ] |
-| 0000 | word break | [ ] |
-| 0000 | partition equal subset sum | [ ] |
+| 139 | word break | [ ] |
+| 416 | partition equal subset sum | [ ] |
 | 8 | String to Integer (atoi) | [ ] |
 | 54 | Spiral Matrix | [ ] |
 | 78 | Subsets | [ ] |
-| 0000 | binary tree right side view | [ ] |
+| 199 | binary tree right side view | [ ] |
 | 5 | Longest Palindromic Substring | [ ] |
 | 62 | Unique Paths | [ ] |
-| 0000 | construct binary tree from preorder and inorder traversal | [ ] |
+| 105 | construct binary tree from preorder and inorder traversal | [ ] |
